@@ -1,0 +1,30 @@
+
+Complete 
+Batch Process Started..
+Starter Templates - Importing Images for Blog name 'garra' (1)
+---- Processing Images from Widgets -----
+---- Processing WordPress Posts / Pages - for "Gutenberg" ----
+---- Processing WordPress Page - for Gutenberg ---- "38"
+---- Processing WordPress Posts / Pages - for Elementor ----
+---- Processing WordPress Page - for Elementor ---- "10"
+---- Processing WordPress Page - for Elementor ---- "7"
+---- Processing WordPress Page - for Elementor ---- "1390"
+---- Processing WordPress Page - for Elementor ---- "1165"
+---- Processing WordPress Page - for Elementor ---- "414"
+---- Processing WordPress Page - for Elementor ---- "43"
+---- Processing WordPress Page - for Elementor ---- "41"
+---- Processing WordPress Page - for Elementor ---- "40"
+---- Processing WordPress Page - for Elementor ---- "39"
+---- Processing WordPress Page - for Elementor ---- "1407"
+---- Processing MISC ----
+Post ID: 829
+Post ID: 828
+Post ID: 825
+Post ID: 671
+Post ID: 669
+Post ID: 667
+Post ID: 668
+Post ID: 666
+Post ID: 665
+Post ID: 663
+Batch Process Complete!
